@@ -1,1 +1,2 @@
 # Online-Medical-Store-inventory-Management
+Developed an inventory management system for an online medical store, covering a range of products including prescription medications, OTC drugs, and medical devices. Implemented inventory tracking software to monitor stock levels, expiration dates, and pricing. Managed supplier relationships and coordinated with warehousing for efficient storage, packing, and shipping.
