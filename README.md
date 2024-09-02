@@ -1,2 +1,7 @@
 # Online-Medical-Store-inventory-Management
-Developed an inventory management system for an online medical store, covering a range of products including prescription medications, OTC drugs, and medical devices. Implemented inventory tracking software to monitor stock levels, expiration dates, and pricing. Managed supplier relationships and coordinated with warehousing for efficient storage, packing, and shipping.
+Developed a web-based Medical Store Inventory Management System using Python and Flask.
+-Implemented user authentication for secure access to inventory management features.
+-Enabled functionalities for viewing, adding, editing, and deleting inventory items.
+-Integrated with a MySQL database for efficient data storage and management.
+-Developed a feature to generate PDF bills for purchases using the reportlab library.
+-Designed a user-friendly and responsive interface with HTML and CSS
